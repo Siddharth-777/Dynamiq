@@ -19,6 +19,15 @@ addtocart_columns_dict = {str(year): f'addtocart_{year}' for year in range(2019,
 
 # Styling
 st.set_page_config(page_title="Dynamiq: A Price Prediction Model", layout="wide", page_icon="🛒")
+# Disclaimer at the top
+st.markdown(
+    """
+    <div style="text-align: center; font-size: 14px; color: #ffcc00; background-color: #333; padding: 10px;">
+        <strong>Disclaimer:</strong> This app is for educational purposes only and is not intended for commercial use.
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 st.markdown(
     """
     <style>
