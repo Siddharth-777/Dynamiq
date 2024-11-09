@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 import time
 
 # Load the CSV file
-file_path = 'G:/Dynamiq/Dynamiq/predictions_with_future_years.csv'
+file_path = 'predictions_with_future_years.csv'
 data = pd.read_csv(file_path)
 
 # Define columns and months
