@@ -12,6 +12,8 @@ Numpy: For some number crunching, like creating synthetic data based on a yearâ€
 RapidFuzz: This helps with fuzzy matching, so I can match your input (like a product name or category) to the data we have, even if they     aren't exactly the same.
 Requests and BeautifulSoup: These are used for scraping product names from URLs you give me. Iâ€™m able to pull out the product details from   a website using these.
 
+NOTE: THE DATA FOR THE PRODUCTS ARE PRODUCED THROUGH SYNTHETIC GENERATION,THUS THE RESULTS MAY VARY WITH IDEAL DATA
+
 How the Analysis Works:
 
 When you enter the information and click the "Analyse" button, here's what happens behind the scenes:
