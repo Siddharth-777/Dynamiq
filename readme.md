@@ -20,7 +20,7 @@ Monthly Data Generation: Based on the data for a given year (views, add-to-cart,
 Price Adjustment: The price is adjusted depending on views and add-to-cart activity. If there's a surge in interest, the price might go up; if there's less interest, the price could go down. For example, in November, I apply a 60% discount to reflect holiday sales.
 Best Time to Buy and Sell: I also analyze the monthly prices to tell you which months are the best to buy and sell a product based on predicted pricing trends.
 
-==========================================================================================================================================
+========================================================================================================================================================================
 
 DISCLAIMER ON COMMERCIAL USE AND WEB SCRAPING:
 
@@ -30,4 +30,4 @@ We encourage users to ensure that they comply with the terms of service of any w
 
 The creator of this tool is not responsible for any legal issues arising from the use of scraped data for commercial purposes.
 
-==========================================================================================================================================
+========================================================================================================================================================================
